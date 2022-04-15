@@ -43,7 +43,7 @@
               
  -------------------
  
-# ** Getting started**: 
+#  Getting started: 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software). 
 2. Connect to your ARDUINO UNO WiFi REV2 board. Upload the [FurbyHackCode](../FurbyHackCode/FurbyHackCode.ino) script to the Arduino.
 3. Open the serial monitor of the Arduino IDE.
@@ -53,3 +53,10 @@
 7. If you want to disconnect to the Furby send the character 'd'.
               
  -------------------
+ 
+ #  Example Video
+ I am demonstrating how to run a few action commands, change the antenna colour and also disconnect from the Furby. See the video below.
+ Uploading FurbyArduinoHack.mov…
+
+
+
