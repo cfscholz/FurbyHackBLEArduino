@@ -22,7 +22,7 @@
               Furby Connect BLE -> https://furby.hasbro.com/en-us            
 */
 
-//Libary Includes:
+//Library Includes:
 #include <ArduinoBLE.h>
 
 //Convenience Variables: 
@@ -39,9 +39,7 @@ char COMMAND = 'o';
 byte yippieAction[6] = {0x13,0x00,0x12,0x00,0x01,0x04};
 byte breakfastAction[6] = {0x13,0x00,0x17,0x01,0x00,0x01};
 byte earsUp[6] = {0x13,0x00,0x37,0x02,0x11,0x00};
-
-
-
+//ADD whatever you want -> https://github.com/Jeija/bluefluff/blob/master/doc/actionlist.md
 
 // Keep furby quiet:
 byte keepQuiet[6] = {0x00,0x00,0x00,0x00,0x00,0x00};
