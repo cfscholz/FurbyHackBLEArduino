@@ -16,7 +16,7 @@
 ```
 ------------------------------------------------------- 
 
-#This repository allows you to control a Furby Connect BLE with an Arduino Uno Wifi 2
+# This repository allows you to control a Furby Connect BLE with an Arduino Uno Wifi 2
 
   **Title**:      FurbyHack
   
