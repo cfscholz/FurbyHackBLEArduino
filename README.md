@@ -45,7 +45,7 @@
  
 #  Getting started: 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software). 
-2. Connect to your ARDUINO UNO WiFi REV2 board. Upload the [FurbyHackCode](../FurbyHackCode/FurbyHackCode.ino) script to the Arduino.
+2. Connect to your ARDUINO UNO WiFi REV2 board. Upload the [FurbyHackCode](./FurbyHackCode/FurbyHackCode.ino) script to the Arduino.
 3. Open the serial monitor of the Arduino IDE.
 4. Power on the Furby. 
 5. The code will automatically stay connected with the Furby and ensures it stays quiet.
