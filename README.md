@@ -56,6 +56,6 @@
  
  #  Example Video
  I am demonstrating how to run a few action commands, change the antenna colour and also disconnect from the Furby. See the video below.
- [DEMO1](https://user-images.githubusercontent.com/102663526/163571439-bf7a826e-5fbd-4e12-882c-3567c12152d6.mov)
- 
+
+https://user-images.githubusercontent.com/102663526/163573069-0e39ae27-41c8-4e85-bd2e-30f527c2fb8c.mp4
 
